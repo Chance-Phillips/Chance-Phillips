@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chance-Phillips
 - 👀 I’m interested in the latest technology advances
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on my Code Fellows experiance.
+- 💞️ I’m looking to collaborate on my Code Fellows experience.
 - 📫 How to reach me Right now email is the best method to get me. Email m.chancephillips18@gmail.com
 
 <!---
